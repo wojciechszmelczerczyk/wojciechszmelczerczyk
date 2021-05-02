@@ -16,6 +16,7 @@ I'm Wojciech Szmelczerczyk, second year CS student 🖥️
 - [Hackerrank](https://www.hackerrank.com/wszmelczerczyk)
 - [Codewars](https://www.codewars.com/users/wszmelczerczyk)
 - [Stack Overflow](https://stackoverflow.com/users/15799991/wszmelczerczyk)
+- [Pluralsight](https://app.pluralsight.com/profile/wszmelczerczyk)
 
 
 ## Github stats
