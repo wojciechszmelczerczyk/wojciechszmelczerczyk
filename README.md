@@ -1,6 +1,6 @@
 ## Who am I
 
-I'm Wojciech Szmelczerczyk, second year CS student
+I'm Wojciech Szmelczerczyk, second year CS student 🖥️
 
 
 ## Technologies i'm focusing on
@@ -19,6 +19,6 @@ I'm Wojciech Szmelczerczyk, second year CS student
 
 
 ## Github stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wojciechszmelczerczyk&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wojciechszmelczerczyk&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wojciechszmelczerczyk&count_private=true&theme=tokyonight&showicons=true)](https://github-readme-stats.vercel.app/api?username=wojciechszmelczerczyk&show_icons=true&count_private=true)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wojciechszmelczerczyk&langs_count=5&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=wojciechszmelczerczyk&count_private=true&hide=c)](https://github.com/wojciechszmelczerczyk)
 
