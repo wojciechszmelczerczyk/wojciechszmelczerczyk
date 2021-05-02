@@ -1,16 +1,24 @@
-### Hi there 👋
+## Who am I
 
-<!--
-**wojciechszmelczerczyk/wojciechszmelczerczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wojciech Szmelczerczyk, second year CS student
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies i'm focusing on
+
+* PHP (uni purposes)
+* JavaScript
+* TypeScript
+* React
+* Node
+
+
+## Links
+- [Hackerrank](https://www.hackerrank.com/wszmelczerczyk)
+- [Codewars](https://www.codewars.com/users/wszmelczerczyk)
+- [Stack Overflow](https://stackoverflow.com/users/15799991/wszmelczerczyk)
+
+
+## Github stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wojciechszmelczerczyk&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wojciechszmelczerczyk&langs_count=5&theme=tokyonight)]()
+
