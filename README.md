@@ -5,11 +5,9 @@ I'm Wojciech Szmelczerczyk, second year CS student 🖥️
 
 ## Technologies i'm focusing on
 
-* PHP (uni purposes)
 * JavaScript
-* TypeScript
-* React
-* Node
+* ReactJS
+* NodeJS
 
 
 ## Links
