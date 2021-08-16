@@ -1,6 +1,6 @@
 ## Who am I
 
-I'm Wojciech Szmelczerczyk, second year CS student 🖥️
+I'm Wojciech Szmelczerczyk, third year CS student 🖥️
 
 
 ## Technologies i'm focusing on
