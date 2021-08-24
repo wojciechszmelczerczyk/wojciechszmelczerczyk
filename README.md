@@ -8,6 +8,8 @@ I'm Wojciech Szmelczerczyk, third year CS student 🖥️
 * JavaScript
 * ReactJS
 * NodeJS
+* ExpressJS
+* MongoDB
 
 
 ## Links
