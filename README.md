@@ -5,11 +5,11 @@ I'm Wojciech Szmelczerczyk, third year CS student 🖥️
 
 ## Technologies i'm focusing on
 
-* JavaScript
-* ReactJS
-* NodeJS
-* ExpressJS
-* MongoDB
+* ```JavaScript```
+* ```ReactJS```
+* ```NodeJS```
+* ```ExpressJS```
+* ```MongoDB```
 
 
 ## Links
