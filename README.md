@@ -1,6 +1,6 @@
 ## Who am I
 
-I'm Wojciech Szmelczerczyk, third year CS student 🖥️
+I'm Wojciech Szmelczerczyk, third year CS student at Silesian University 🖥️
 
 
 ## Technologies i'm focusing on
