@@ -1,8 +1,23 @@
+<div id="header" align="center">
+
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
 ## Who am I
 
-I'm Wojciech Szmelczerczyk, third year CS student at Silesian University 🖥️.
+I'm Wojciech Szmelczerczyk, third year CS student at Silesian University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 Interested in `MERN` stack technologies, especially backend.
+
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-wojciechszmelczerczyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciechszmelczerczyk/)
 
 ## Technologies i'm currently focusing on
 
