@@ -13,7 +13,7 @@
 
 ## Who am I
 
-I'm Wojciech Szmelczerczyk, third year CS student at Silesian University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm Wojciech Szmelczerczyk, third year CS student at Silesian University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 Interested in `MERN` stack technologies, especially backend.
 
