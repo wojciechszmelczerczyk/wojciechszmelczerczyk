@@ -19,7 +19,7 @@ Interested in `MERN` stack technologies, especially backend.
 
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-wojciechszmelczerczyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciechszmelczerczyk/)
 
-## Technologies i'm currently focusing on
+## Technologies I'm currently focusing on
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"       height="60" width="60">
