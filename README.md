@@ -15,7 +15,7 @@
 
 I'm Wojciech Szmelczerczyk, third year CS student at Silesian University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Currently I'm working on engineer app [express-notes-app](https://github.com/wojciechszmelczerczyk/express-notes-app).
+Currently I'm working on engineer app [mern-notes-app](https://github.com/wojciechszmelczerczyk/mern-notes-app).
 
 Interested in `MERN` stack technologies, especially backend.
 
