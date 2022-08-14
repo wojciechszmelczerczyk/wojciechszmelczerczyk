@@ -78,6 +78,10 @@ height="60" width="60">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" height="60" width="60">
 
+### Hosting
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original-wordmark.svg" height="60" width="60">
+
 
 ## Links
 - [Hackerrank](https://www.hackerrank.com/wszmelczerczyk)
