@@ -65,12 +65,12 @@ height="60" width="60">
 
 
 ### API
-
+<p float="left">
 <img src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" height="60" width="60">
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain-wordmark.svg" 
 height="60" width="60">
-
+</p>
 ### Control version
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" height="60" width="60">
