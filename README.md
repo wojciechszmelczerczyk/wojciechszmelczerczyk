@@ -76,9 +76,6 @@ height="60" width="60">
 | ---------------------------- | ----------------- | -------- |
 | GitNation Node.js Congress   | April 14-17, 2023 | Online   |
 
-
-Of course, you should modify the table to include the conferences and congresses you've actually attended, along with the relevant information such as the date and location. You can also add additional columns to include information such as your role at the event, any talks or presentations you gave, or any awards or recognitions you received.
-
 ## Github stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wojciechszmelczerczyk&count_private=true&theme=tokyonight&showicons=true)](https://github-readme-stats.vercel.app/api?username=wojciechszmelczerczyk&show_icons=true&count_private=true)
