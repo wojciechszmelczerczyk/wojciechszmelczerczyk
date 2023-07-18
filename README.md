@@ -57,7 +57,7 @@ height="60" width="60">
 height="60" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" height="60" width="60">
-<img src="https://raw.githubusercontent.com/httpie/httpie/master/docs/httpie-logo.svg" height="60" width="60">
+<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="60" width="60">
 
 </p>
 <p float="left">
