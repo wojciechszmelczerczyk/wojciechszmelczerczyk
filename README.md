@@ -17,6 +17,8 @@ I'm Wojciech Szmelczerczyk, engineer at CS <img src="https://media.giphy.com/med
 
 Interested in `MERN` stack technologies, especially backend.
 
+Currently working on my [**master thesis**](https://github.com/wojciechszmelczerczyk/py-co2-algorithms-prediction)
+
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-wojciechszmelczerczyk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciechszmelczerczyk/)
 
 ## Technologies
